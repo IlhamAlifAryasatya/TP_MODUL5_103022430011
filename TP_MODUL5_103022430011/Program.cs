@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿HaloGeneric halo = new HaloGeneric();
+halo.SapaUser("Ilham");
